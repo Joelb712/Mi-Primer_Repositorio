@@ -1,8 +1,5 @@
 Este archivo está creado para practicar el Rollback. 
 
-Punto del Primer Commit.
 Punto del Primer Commit. by JJ
 
 Punto del Segundo Commit. by Ale
-
-punto del tercer commit  Braian
